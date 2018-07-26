@@ -43,4 +43,4 @@ The gradient penalty WGAN is available in the file WGAN_gradientpenalty.py
 
 ## Citing 
 
-Furhter to come
+Further to come
