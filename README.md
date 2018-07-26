@@ -23,6 +23,7 @@ sudo apt-get install libblas-dev liblapack-dev gfortran
 ## Quick Start
 
 The standard WGAN is available in the file WGAN_std.py
+
 The gradient penalty WGAN is available in the file WGAN_gradientpenalty.py
 
 ```python
