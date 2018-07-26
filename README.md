@@ -30,7 +30,7 @@ The gradient penalty WGAN is available in the file WGAN_gradientpenalty.py
 
 ----------------------------
 
-## Reference 
+## References
 
 [1] Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. 2014. Generative adversarial nets. In Proceedings of the 27th International Conference on Neural Information Processing Systems - Volume 2 (NIPS'14), Vol. 2. MIT Press, Cambridge, MA, USA, 2672-2680.
 
